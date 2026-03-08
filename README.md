@@ -1,1 +1,1 @@
-# Green-Computer-Academy
+# Green Computer Academy 1st Project
